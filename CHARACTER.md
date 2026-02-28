@@ -2,14 +2,14 @@
 
 This document defines the anchor identities (Personas) used in the Protocol-First Workflow. By strictly enforcing these Personas in all generated prompts and using the provided Character Reference Sheets for Image-to-Image (or FaceID/IP-Adapter) anchoring, we ensure that the exact same individuals appear across all experiment images.
 
-All characters are dressed in standard industrial engineer workwear (sturdy work jacket, work pants, and safety shoes) to fit realistic factory and lab environments.
+All characters are dressed in a specific modern navy blue industrial workwear uniform (zip-up jacket with a stand collar, right vertical zip pocket, left flap pocket, and matching pants). No logos or branding.
 
 ---
 
 ## Character 1: Standard Female Engineer (25 y/o)
 
 > **[PERSONA DEFINITION]**
-> A 25-years-old Japanese woman engineer. She has short black bob hair with straight, meticulously cut bangs, dark brown almond-shaped eyes, soft and symmetrical facial features, pale skin tone, and a neutral, professional expression. She is wearing a standard industrial engineer workwear uniform (a practical light blue or grey sturdy work jacket and matching work pants) and dark safety shoes.
+> A 25-years-old Japanese woman engineer. She has short black bob hair with straight, meticulously cut bangs, dark brown almond-shaped eyes, soft and symmetrical facial features, pale skin tone, and a neutral, professional expression. She is wearing a modern navy blue industrial workwear uniform. The uniform consists of a navy blue zip-up work jacket with a stand collar, a vertical zippered pocket on the right chest, a flap pocket on the left chest, and matching navy blue work pants. Absolutely no logos, no text, no branding. Dark safety shoes.
 
 ![Character 1 Reference Sheet](./char1_workwear.png)
 
@@ -18,7 +18,7 @@ All characters are dressed in standard industrial engineer workwear (sturdy work
 ## Character 2: Young Female Engineer (22 y/o)
 
 > **[PERSONA DEFINITION]**
-> A 22-years-old Japanese woman engineer, 160cm tall. She has medium-length brown hair. She is very beautiful and cute, but possesses a highly natural, grounded, everyday reality look—avoiding any glossy, artificial AI aesthetic. She looks like a real person you would meet. She is wearing a standard industrial engineer workwear uniform (a practical light blue or grey sturdy work jacket and matching work pants) and dark safety shoes.
+> A 22-years-old Japanese woman engineer, 160cm tall. She has medium-length brown hair. She is very beautiful and cute, but possesses a highly natural, grounded, everyday reality look—avoiding any glossy, artificial AI aesthetic. She looks like a real person you would meet. She is wearing a modern navy blue industrial workwear uniform. The uniform consists of a navy blue zip-up work jacket with a stand collar, a vertical zippered pocket on the right chest, a flap pocket on the left chest, and matching navy blue work pants. Absolutely no logos, no text, no branding. Dark safety shoes.
 
 ![Character 2 Reference Sheet](./char2_young_woman.png)
 
@@ -27,7 +27,7 @@ All characters are dressed in standard industrial engineer workwear (sturdy work
 ## Character 3: Professional Male Engineer (35 y/o)
 
 > **[PERSONA DEFINITION]**
-> A 35-years-old Japanese man, an experimental professional. He has short, neatly styled black hair. He exudes a solid, sincere, dependable, and highly experienced aura, with a grounded and realistic face. He is wearing a standard industrial engineer workwear uniform (a practical light blue or grey sturdy work jacket and matching work pants) and dark safety shoes.
+> A 35-years-old Japanese man, an experimental professional. He has short, neatly styled black hair. He exudes a solid, sincere, dependable, and highly experienced aura, with a grounded and realistic face. He is wearing a modern navy blue industrial workwear uniform. The uniform consists of a navy blue zip-up work jacket with a stand collar, a vertical zippered pocket on the right chest, a flap pocket on the left chest, and matching navy blue work pants. Absolutely no logos, no text, no branding. Dark safety shoes.
 
 ![Character 3 Reference Sheet](./char3_pro_man.png)
 
